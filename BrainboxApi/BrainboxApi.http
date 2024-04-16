@@ -1,0 +1,6 @@
+@BrainboxApi_HostAddress = http://localhost:5007
+
+GET {{BrainboxApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
